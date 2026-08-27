@@ -9,6 +9,9 @@
   </a>
 
   <p align="center">
+    <a href="https://talhairfan10.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-Website-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="mailto:ti609054@gmail.com">
       <img src="https://img.shields.io/badge/Email-ti609054@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
