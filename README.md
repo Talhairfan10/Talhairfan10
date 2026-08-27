@@ -168,12 +168,12 @@ const developer = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talhairfan10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="175" alt="Talha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhairfan10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Talhairfan10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="170" alt="Talha's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Talhairfan10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="170" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talhairfan10&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talhairfan10&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 ---
