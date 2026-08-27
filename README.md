@@ -32,12 +32,12 @@ const developer = {
   role: "Software Engineer",
   location: "Pakistan",
   status: "🚀 Open to Work / Internships & Freelance Opportunities",
-  coreStack: ["Flutter", "Dart", "Firebase", "Node.js", "JavaScript", "Python"],
+  coreStack: ["Flutter", "Dart", "Firebase", "PHP", "Laravel", "JavaScript"],
   focusAreas: [
-    "Cross-Platform Mobile Apps (iOS & Android)",
+    "Cross-Platform Mobile Apps (Flutter / Android / iOS)",
     "Real-time Cloud Architecture & Firestore",
-    "Scalable Web APIs & Admin Dashboards"
+    "Scalable Web Portals & E-Commerce Systems"
   ],
-  currentlyBuilding: "Next-gen Legal Case Management & Court Tracking Ecosystem",
-  passion: "Translating complex business logic into clean, reactive, and fluid user experiences"
+  currentlyBuilding: "Next-gen LegalTech Case Management & Court Tracking Ecosystem",
+  passion: "Writing clean, reactive code and building fluid, modern user interfaces"
 };
