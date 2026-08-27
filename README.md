@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Talhairfan10/Talhairfan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Talha%20Irfan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%C2%B7%20Firebase%20%C2%B7%20Full%20Stack%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%"/>
 
-Here are some ideas to get you started:
+  <!-- Typing SVG Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Mobile+%26+Web+Applications;Flutter+%26+Firebase+Specialist;Crafting+Modern+Full-Stack+Architectures;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="mailto:talhairfan.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-talhairfan.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com/in/talhairfan10">
+      <img src="https://img.shields.io/badge/LinkedIn-Talha_Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Talhairfan10">
+      <img src="https://img.shields.io/badge/GitHub-Talhairfan10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 `whoami`
+
+```javascript
+const developer = {
+  name: "Talha Irfan",
+  role: "Software Engineer",
+  location: "Pakistan",
+  status: "🚀 Open to Work / Internships & Freelance Opportunities",
+  coreStack: ["Flutter", "Dart", "Firebase", "Node.js", "JavaScript", "Python"],
+  focusAreas: [
+    "Cross-Platform Mobile Apps (iOS & Android)",
+    "Real-time Cloud Architecture & Firestore",
+    "Scalable Web APIs & Admin Dashboards"
+  ],
+  currentlyBuilding: "Next-gen Legal Case Management & Court Tracking Ecosystem",
+  passion: "Translating complex business logic into clean, reactive, and fluid user experiences"
+};
