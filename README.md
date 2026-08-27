@@ -9,10 +9,10 @@
   </a>
 
   <p align="center">
-    <a href="mailto:talhairfan.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-talhairfan.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:ti609054@gmail.com">
+      <img src="https://img.shields.io/badge/Email-ti609054@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/talhairfan10">
+    <a href="https://www.linkedin.com/in/talha-irfan-7359b7352" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Talha_Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/Talhairfan10">
@@ -185,14 +185,14 @@ const developer = {
 </p>
 
 <p align="center">
-  <a href="mailto:talhairfan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ti609054@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ti609054@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/talhairfan10">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/talha-irfan-7359b7352" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha_Irfan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Talhairfan10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Talhairfan10-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
